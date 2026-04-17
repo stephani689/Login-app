@@ -5,4 +5,4 @@ Tugas praktikum Minggu 5 - Interaction & Forms.
 ![Login App](assets/images/hasil.png)
 
 ## 🔗 Demo
-[Cek di Expo Snack]((https://snack.expo.dev/@stephanizz/login-app))
+[Cek di Expo Snack](https://snack.expo.dev/@stephanizz/login-app)
